@@ -1,2 +1,1 @@
-# geooptix_api
-Geo Optix API
+This repo contains code that demonstrates how to connection to the GeoOptix API using the KeyStone authentication API. Both of these are needed to access the API that is used by the [Columbia Habitat Monitoring Program](http://champmonitoring.org).
